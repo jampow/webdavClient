@@ -1,0 +1,17 @@
+{
+    "asi"           : true,
+    "lastsemic"     : true,
+    "moz"           : true,
+    "esnext"        : true,
+    "globalstrict"  : true,
+    "maxlen"        : 80,
+
+    "globals": {
+        "__dirname": true,
+        "console": true,
+        "module": true,
+        "process": true,
+        "require": true
+
+    }
+}
