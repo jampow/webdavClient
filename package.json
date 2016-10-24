@@ -1,0 +1,26 @@
+{
+  "name": "webdav-client",
+  "version": "1.0.0",
+  "description": "Client to interact with webdav in nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm rum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jampow/webdavClient.git"
+  },
+  "keywords": [
+    "webdav",
+    "client"
+  ],
+  "author": "Gianpaulo M. Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jampow/webdavClient/issues"
+  },
+  "homepage": "https://github.com/jampow/webdavClient#readme"
+}
