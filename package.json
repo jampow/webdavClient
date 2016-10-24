@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jampow/webdavClient/issues"
   },
-  "homepage": "https://github.com/jampow/webdavClient#readme"
+  "homepage": "https://github.com/jampow/webdavClient#readme",
+  "devDependencies": {
+    "jsDAV": "^0.3.4"
+  }
 }
